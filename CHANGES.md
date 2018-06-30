@@ -1,3 +1,13 @@
+0.3.1 2018-07-02
+---------------------------
+
+- update to libuv 1.21.0
+ * new function: `Uwt.Fs.lchmown`
+
+- Change license to MIT
+
+- fix compilation under OCaml 4.07.0 (Windows)
+
 0.3.0.2 2018-04-23
 ---------------------------
 
